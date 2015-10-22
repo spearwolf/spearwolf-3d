@@ -1,6 +1,7 @@
 /* global requestAnimationFrame */
 /* global THREE */
 /* global Stats */
+'use strict';
 
 var container, stats;
 
